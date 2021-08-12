@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @maytees
+- 👀 I’m interested in computers
+- 🌱 I’m currently learning Vim, React, C, and Spring Boot
