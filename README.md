@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @maytees
 - 👀 I’m interested in computers
-- 🌱 I’m currently creating a very cool very useless project
+- 🌱 I’m currently creating a very cool, very useless project
