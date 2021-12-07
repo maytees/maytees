@@ -13,18 +13,18 @@
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-Yes, those *are* all the things I use...
+> Yes, those *are* all the things I use...
 
-I'm interested in language design
+> I'm interested in language design
 
 I'm learning:
-  LLVM
-  Typescript
-  C++
+ - LLVM
+ - Typescript
+ - C++
 
 For the future:
-  Assembly
-  C
-  Lua
+ - Assembly
+ - C
+ - Lua
 
   
