@@ -25,6 +25,6 @@ I'm learning:
 For the future:
  - Assembly
  - C
- - Lua
+ - Lua, Rust, or Golang
 
   
