@@ -17,6 +17,9 @@
 
 > I'm interested in language design
 
+Current skills"
+ - Java
+
 I'm learning:
  - LLVM
  - Typescript
