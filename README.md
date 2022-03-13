@@ -1,7 +1,7 @@
 # Hi I'm matees
 
 > I'm mainly interested in language design, and systems
-> I'm mainly skilled in Java
+ - I'm mainly skilled in Java
 
 Current skills
  - Java
