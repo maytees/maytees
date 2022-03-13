@@ -1,8 +1,9 @@
 # Hi I'm matees
 
 > I'm mainly interested in language design, and systems
+> I'm mainly skilled in Java
 
-Current skills"
+Current skills
  - Java
  - JS (not complex)
  - HTML/CSS
@@ -12,10 +13,9 @@ Current skills"
 
 I'm learning:
  - Rust
- - *Just started* Mint
+ - C
 
 For the future:
  - Assembly
- - C or C++
 
   
