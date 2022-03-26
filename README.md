@@ -26,10 +26,11 @@ Current skills
  - Very Very Basic Vue3
 
 I'm learning:
- - --Rust-- Golang
+ - Golang
  - C
 
 For the future:
  - Assembly
+ - Rust
 
   
