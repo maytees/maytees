@@ -26,7 +26,7 @@ Current skills
  - Very Very Basic Vue3
 
 I'm learning:
- - Rust
+ - --Rust-- Golang
  - C
 
 For the future:
