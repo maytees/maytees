@@ -24,13 +24,14 @@ Current skills
  - Linux
  - Vim
  - Very Very Basic Vue3
+ - Decent C knowledge
+ - Horriable Rust knowledge
 
 I'm learning:
- - Golang
+ - Rust
  - C
 
 For the future:
  - Assembly
- - Rust
 
   
