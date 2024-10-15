@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on: [Guideway](https://guideway.co) a school club management platform<br>🤝 I’m looking for help with getting a job in the field<br>🧓🏻I like language design, you'll see many attemps at creating a programming language in this profile. But only one works...
 
+- I love [Google](https://github.com/google)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maythamajam) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Maytees1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@matees6697) 
