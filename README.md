@@ -1,8 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on: [Guideway](https://guideway.co) a school club management platform<br>🤝 I’m looking for help with getting a job in the field<br>🧓🏻I like language design, you'll see many attemps at creating a programming language in this profile. But only one works...
 
-- I attend [South Lakes HS](https://www.google.com/search?q=south+lakes+hs&sca_esv=be665a62fa86d23b&sxsrf=ADLYWIJ8Lo8ZBcQ2K0BGopu7S5uBEoVzyA%3A1728995687285&source=hp&ei=Z2EOZ52ZD4jm5NoPhMycqAE&iflsig=AL9hbdgAAAAAZw5vd05_Q17N_pUJF191xpnUZKgHWlJw&ved=0ahUKEwjd6IbuspCJAxUIM1kFHQQmBxUQ4dUDCBg&uact=5&oq=south+lakes+hs&gs_lp=Egdnd3Mtd2l6Ig5zb3V0aCBsYWtlcyBoczIOEC4YgAQYxwEYjgUYrwEyDhAuGIAEGMcBGI4FGK8BMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARIiEBQhQRYtj9wA3gAkAEAmAFzoAHjEKoBBDI1LjK4AQPIAQD4AQGYAh6gAu4RqAIKwgIHECMYJxjqAsICBBAjGCfCAgoQIxiABBgnGIoFwgIKEAAYgAQYQxiKBcICCxAAGIAEGLEDGIMBwgIREC4YgAQYsQMY0QMYgwEYxwHCAgsQABiABBiRAhiKBcICChAuGIAEGEMYigXCAggQABiABBjJA8ICCBAAGIAEGLEDwgILEAAYgAQYkgMYigXCAgoQABiABBgUGIcCwgITEC4YgAQYsQMY0QMYgwEYxwEYCsICDRAAGIAEGLEDGIMBGArCAgsQLhiABBjHARivAcICChAAGIAEGLEDGArCAgcQABiABBgKwgIFEC4YgATCAggQLhiABBjUAsICEBAAGIAEGLEDGEMYgwEYigXCAggQLhiABBjlBMICDhAAGIAEGLEDGIMBGIoFwgIIEC4YgAQYsQPCAgsQLhiABBixAxiDAcICFhAuGIAEGLEDGNEDGEMYgwEYxwEYigXCAg0QLhiABBixAxhDGIoFmAMGkgcEMjYuNKAH7tkC&sclient=gws-wiz)
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maythamajam) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Maytees1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@matees6697) 
