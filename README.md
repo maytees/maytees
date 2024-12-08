@@ -19,5 +19,4 @@ I attend [South Lakes High School](https://www.google.com/search?q=south+lakes+h
 
 [![](https://visitcount.itsvg.in/api?id=maytees&icon=0&color=0)](https://visitcount.itsvg.in)
 
-*Do these views mean something?*
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
