@@ -1,7 +1,4 @@
-# 💫 About Me:
-I attend [South Lakes High School](https://www.google.com/search?q=south+lakes+high+school)
-
-<!--I attend [South Lakes High School](https://buymeacoffee.com/matees) -->
+# About Me:
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maythamajam) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Maytees1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@matees6697) 
